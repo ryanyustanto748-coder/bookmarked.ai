@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Bio Link</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f0f2f5 ;
+      text-align: center;
+      padding: 50px 20px;
+    }
+
+    .profile {
+      margin-bottom: 30px;
+    }
+
+    .profile img {
+      width: 120px;
+      height: 120px;
+      border-radius: 50%;
+      object-fit: cover;
+      border: 3px solid #007BFF;
+    }
+
+    .profile h2 {
+      margin-top: 10px;
+      color: #333;
+    }
+
+    .btn-link {
+      display: block;
+      background-color: #007BFF;
+      color: white;
+      text-decoration: none;
+      padding: 12px 20px;
+      margin: 10px auto;
+      width: 250px;
+      border-radius: 8px;
+      font-size: 16px;
+      transition: background-color 0.3s ease;
+    }
+
+    .btn-link:hover {
+      background-color: #0056b3;
+    }
+
+    /* Tambahan agar tampilan lebih rapi di HP */
+    @media (max-width: 480px) {
+      .btn-link {
+        width: 90%;
+      }
+    }
+  </style>
+</head>
+<body>
+
+  <div class="profile">
+    <img src=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJYM_K0TXWZNSL9G0VEtxQDvuDGB-8CawA3x0gFB77Fg&s=10 " alt="Foto Profil">
+    <h2>L1NK VIDEO DOODSTREAM</h2>
+  </div>
+
+  <a href=" https://pineegypt.com/ca4f360m?key=a188064e3400c5dff777b4dc24e76e1d" class="btn-link">B0k3p Tante</a>
+  <a href=" https://pineegypt.com/ca4f360m?key=a188064e3400c5dff777b4dc24e76e1d" class="btn-link">B0kep Hijab</a>
+  <a href=" https://pineegypt.com/ca4f360m?key=a188064e3400c5dff777b4dc24e76e1d" class="btn-link">B0kep Smp</a>
+
+</body>
+</html>
+Doodstream Terbaru Viral | Channel lndo | Ojolstream | Streaming Bar Bar | IGO Only | Prank Ojol Terbaru | Hijab Mania | Only fans| Media Pemersatu.
+
